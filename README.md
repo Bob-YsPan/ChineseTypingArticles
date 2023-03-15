@@ -1,7 +1,8 @@
 # Chinese Typing Articles
 ## 中打練習題庫
 
-題庫有空會更新新文章，未來的文章會上傳到這個Repo
+* 題庫有空會更新新文章，未來的文章會上傳到這個Repo
+* 可以使用TQC提供之測試軟體，或是我自寫的[Chinese Typing PyQt5](https://github.com/Bob-YsPan/ChineseTypingPyQt5)
 
 **如文章有侵權問題，麻煩跟我聯絡一下，我會盡快徹下文章，感謝～**
 
