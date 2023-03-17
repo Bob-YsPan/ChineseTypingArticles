@@ -3,6 +3,7 @@
 
 * 題庫有空會更新新文章，未來的文章會上傳到這個Repo
 * 可以使用TQC提供之測試軟體，或是我自寫的[Chinese Typing PyQt5](https://github.com/Bob-YsPan/ChineseTypingPyQt5)
+* 要玩玩看[開山始祖](https://github.com/Bob-YsPan/wxChineseTypingSoftware)也可以，不過本人暫時沒有心力去修復那邊的Bug，維護會以Qt5的新版為主
 
 **如文章有侵權問題，麻煩跟我聯絡一下，我會盡快徹下文章，感謝～**
 
