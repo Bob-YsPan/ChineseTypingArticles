@@ -19,3 +19,4 @@
 * 文章3.txt > 《我的彼得》 徐志摩 | [維基文庫](https://zh.wikisource.org/wiki/%E6%88%91%E7%9A%84%E5%BD%BC%E5%BE%97)  
 * 文章4.txt > 《天災使我們更加團結一心》 陸子鈞 | [科技大觀園](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=8358bbd7-43c8-4462-ad9e-5611981a3cc4)
 * 文章5.txt > 《免於恐懼地吃–食物過敏的治療》 徐伊亭 | [科技大觀園](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=d2fd0afa-5d47-43d3-acfc-2a89036685de) 
+* 文章6.txt >  AI產生(ChatGPT Mar 14 Version(Free)) | 要求為：`產生一個關於台灣旅遊的文章，1000字，使用散文的方式表達`
